@@ -1,5 +1,14 @@
 # [ENG1133] Undergraduate Thesis: One-Shot Learning Approach for Underwater Inspection Image Classification
 
+## Disclaimer
+
+* The image dataset used in this project is **proprietary and confidential** from an oil & gas company and **cannot be shared publicly**
+* Only the code, methodology, and non-sensitive results are available in this repository
+* You will need your own dataset to run the code
+* Any references to real inspection data have been anonymized
+
+---
+
 * **Course:** ENG1133
 * **Semester:** 2025.2
 * **Supervisor:** Marco Aurélio Pacheco
@@ -8,10 +17,9 @@
   * Pedro Gabriel Serodio Sales
 
 ## About the Project
-This project was developed as part of the **Undergraduate Thesis** in Computer Engineering.
-The goal is to **classify underwater** images obtained from inspections performed by **ROVs (Remotely Operated Vehicles)** using a **One-Shot Learning** approach based on **Siamese Networks**.  
-
-The proposal aims to reduce manual analysis time of inspection images — a process that can take up to **40 hours per specialist** — by automating part of the identification of underwater structures and objects.
+This project was developed as part of the **Undergraduate Thesis** in Computer Engineering, in partnership with an **oil & gas company** seeking to optimize its underwater inspection workflows.  
+The goal is to **classify underwater images** obtained from inspections performed by **ROVs (Remotely Operated Vehicles)** using a **One-Shot Learning** approach based on **Siamese Networks**.  
+The proposal aims to reduce manual analysis time of inspection images — a process that can take up to **40 hours per specialist**, by automating part of the identification of underwater structures and objects.
 
 ## Objectives
 
